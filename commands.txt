@@ -26,6 +26,22 @@ Commonly used commands:
 	
 	git rm readme.txt // remove file from git
 
+	git push origin main // up-to-date to remote retro
+
+	git remote rm origin //delete the link between local and remote
+
+	git remote add origin git@server-name:path/repo-name.git
+	(git remote add origin https://github.com/chao-cY/learngit.git)
+	(origin is a name that we give remote repo)
+
+	git push -u origin master  //first time push
+
+	git push origin master  //push
+
+	
+	
+	
+
 
 
 	
