@@ -18,9 +18,17 @@ Commonly used commands:
 
 	git reset --hard 2ewrrrd  // jump to version  2ewrrrd
 
-	git diff HEAD -- commands.txt //show the difference between HEAD and workspace
+	git diff HEAD commands.txt //show the difference between HEAD and workspace
 
 	git checkout -- readme.txt //undo the modification
+
+	git reset HEAD readme.txt //undo latest add
+	
+	git rm readme.txt // remove file from git
+
+
+
+	
 
 
 
