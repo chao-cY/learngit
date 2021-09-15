@@ -18,6 +18,8 @@ Commonly used commands:
 
 	git reset --hard 2ewrrrd  // jump to version  2ewrrrd
 
+	git diff HEAD -- commands.txt //show the difference between HEAD and workspace
+
 
 
 	
