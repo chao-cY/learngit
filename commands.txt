@@ -20,6 +20,9 @@ Commonly used commands:
 
 	git diff HEAD -- commands.txt //show the difference between HEAD and workspace
 
+	git checkout -- readme.txt //undo the modification
+
+
 
 
 	
