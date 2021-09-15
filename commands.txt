@@ -1,0 +1,23 @@
+Commonly used commands:
+
+	git init     //cd to target folder
+
+	git add  readme.txt  //new file "readme.txt"
+
+	git add  license.txt   //new file "license.txt"
+
+	git commit -m "add two files"   //commit to repo
+ 
+	git status  //check the situation of files in this folder
+	
+	git log  //view versions before current one
+
+	git log --pretty=oneline //simplify information of version
+
+	git reflog //view all of the versions
+
+	git reset --hard 2ewrrrd  // jump to version  2ewrrrd
+
+
+
+	
